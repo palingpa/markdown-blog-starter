@@ -61,7 +61,7 @@ def main():
 """
     (OUT / "index.html").write_text(index, encoding="utf-8")
     (OUT / "style.css").write_text(
-        "body{font-family:system-ui,sans-serif;max-width:680px;margin:2rem auto;padding:0 1rem;line-height:1.6}"
+        "body{font-family:system-ui,sans-serif;max-width:680px;margin:2rem auto;padding:0 1rem;line-height:1.65;color:#111}"
         "a{color:#2563eb}",
         encoding="utf-8",
     )
