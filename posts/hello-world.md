@@ -2,5 +2,4 @@
 
 First post on this tiny static blog starter.
 
-Shipping beats perfection.
-
+Shipping beats perfection. Updated once for clarity.
